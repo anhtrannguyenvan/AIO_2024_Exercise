@@ -332,4 +332,3 @@ assert my_function_12([3, 9, 4, 5]) == [3, 9]
 # Test case 2
 print(my_function_12([1, 2, 3, 5, 6]))
 
-# Tu Ba Van Anh
