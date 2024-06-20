@@ -1,0 +1,7 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "sonarlint.connectedMode.project": {
+        "connectionId": "anh-tran-nguyen-van",
+        "projectKey": "anhtrannguyenvan_AIO_2024_Exercise"
+    }
+}
