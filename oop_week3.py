@@ -107,9 +107,6 @@ print(ward1.describe())
 print ("Average year of birth ( teachers ):" ,ward1 . compute_average ())
 
 
-##TRAC NGHIEM
-#CAU1
-import torch
 
 
 
